@@ -1,8 +1,4 @@
-
-![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true)
-
 ## Contact 
-
 <span class="contact">
 <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/4200E2F1041F9865A7376B934D76600D.jpg" title="CIKI1F">&nbspwechat&nbsp</a>
 </span>
@@ -38,3 +34,5 @@
 <span class="contact">
 <a href="https://feng-w.cn" title="feng-w.cn"> &nbspblog&nbsp</a>
 </span>
+![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true)
+
