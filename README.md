@@ -1,4 +1,6 @@
 
+![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true)
+
 ## Contact 
 
 </br>
@@ -46,8 +48,6 @@
 
 </br>
 
-::selection
-    background-color: #79ffe1;
 /* Wobble Skew */
 @-webkit-keyframes contact {
   16.65% {
