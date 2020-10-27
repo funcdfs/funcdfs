@@ -6,7 +6,7 @@
 </br>
 
 <span class="contact">
-<a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/wx.jpg" title="CIKI1F" style="color:#FFF;font-weight:bold;"> &nbsp Wechat &nbsp  </a>
+<a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/wx.jpg" title="CIKI1F"> &nbsp Wechat &nbsp  </a>
 </span>
 
 <span class="contact">
@@ -45,76 +45,3 @@
 <a href="https://feng-w.cn" title="feng-w.cn"> &nbsp blog &nbsp </a>
 </span>
 </br>
-
-</br>
-
-/* Wobble Skew */
-@-webkit-keyframes contact {
-  16.65% {
-    -webkit-transform: skew(-12deg);
-    transform: skew(-12deg);
-  }
-  33.3% {
-    -webkit-transform: skew(10deg);
-    transform: skew(10deg);
-  }
-  49.95% {
-    -webkit-transform: skew(-6deg);
-    transform: skew(-6deg);
-  }
-  66.6% {
-    -webkit-transform: skew(4deg);
-    transform: skew(4deg);
-  }
-  83.25% {
-    -webkit-transform: skew(-2deg);
-    transform: skew(-2deg);
-  }
-  100% {
-    -webkit-transform: skew(0);
-    transform: skew(0);
-  }
-}
-@keyframes contact {
-  16.65% {
-    -webkit-transform: skew(-12deg);
-    transform: skew(-12deg);
-  }
-  33.3% {
-    -webkit-transform: skew(10deg);
-    transform: skew(10deg);
-  }
-  49.95% {
-    -webkit-transform: skew(-6deg);
-    transform: skew(-6deg);
-  }
-  66.6% {
-    -webkit-transform: skew(4deg);
-    transform: skew(4deg);
-  }
-  83.25% {
-    -webkit-transform: skew(-2deg);
-    transform: skew(-2deg);
-  }
-  100% {
-    -webkit-transform: skew(0);
-    transform: skew(0);
-  }
-}
-.contact {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 3px #9400d3;
-}
-.contact:hover, .contact:focus, .contact:active {
-  -webkit-animation-name: contact;
-  animation-name: contact;
-  -webkit-animation-duration: 1s;
-  animation-duration: 1s;
-  -webkit-animation-timing-function: ease-in-out;
-  animation-timing-function: ease-in-out;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1;
-}
