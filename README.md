@@ -1,10 +1,3 @@
----
-title: ABOUT
----
-
-::: center
-{{dist_times}}
-:::
 
 ## Contact 
 
@@ -46,46 +39,82 @@ title: ABOUT
 <a href="http://codeforces.com/profile/KONNG#" title="KONNG"> &nbsp codeforce &nbsp </a>
 </span>
 
+<span class="contact">
+<a href="https://feng-w.cn" title="feng-w.cn"> &nbsp blog &nbsp </a>
+</span>
 </br>
 
 </br>
 
-## Plaything
-
-::: center
-[vscode-theme-fengwei2002](https://marketplace.visualstudio.com/items?itemName=psychonaut1f.fengwei2002)
-:::
-
-
-<script>
-    export default {
-        props: ['slot-key'],
-        data() {
-            return {
-                dist_times: "xx days xx h xx m xx s"
-            };
-        },
-        methods: {
-            refresh() {
-                let start_date = '2020-01-20 00:15:00.0';
-                start_date = start_date.substring(0, 19);
-                start_date = start_date.replace(/-/g, '/');
-                let start_timestamp = new Date(start_date).getTime();
-                let now_timestamp = new Date();
-
-                let dist_timestamp = now_timestamp - start_timestamp;
-                let dist_days = Math.floor(dist_timestamp / (24 * 3600 * 1000));
-                let dist_hours = Math.floor((dist_timestamp % (24 * 3600 * 1000)) / (3600 * 1000));
-                let dist_mins = Math.floor((dist_timestamp % (3600 * 1000)) / (60 * 1000));
-                let dist_secs = Math.floor((dist_timestamp % (60 * 1000)) / 1000);
-                this.dist_times = `${dist_days} days ${dist_hours} h ${dist_mins} m ${dist_secs} s`;
-            }
-        },
-        mounted() {
-            this.refresh();
-            setInterval(this.refresh, 1000);
-        }
-    }
-</script>
-
-<link rel="stylesheet" href="https://ico.z01.com/zico.min.css">
+::selection
+    background-color: #79ffe1;
+/* Wobble Skew */
+@-webkit-keyframes contact {
+  16.65% {
+    -webkit-transform: skew(-12deg);
+    transform: skew(-12deg);
+  }
+  33.3% {
+    -webkit-transform: skew(10deg);
+    transform: skew(10deg);
+  }
+  49.95% {
+    -webkit-transform: skew(-6deg);
+    transform: skew(-6deg);
+  }
+  66.6% {
+    -webkit-transform: skew(4deg);
+    transform: skew(4deg);
+  }
+  83.25% {
+    -webkit-transform: skew(-2deg);
+    transform: skew(-2deg);
+  }
+  100% {
+    -webkit-transform: skew(0);
+    transform: skew(0);
+  }
+}
+@keyframes contact {
+  16.65% {
+    -webkit-transform: skew(-12deg);
+    transform: skew(-12deg);
+  }
+  33.3% {
+    -webkit-transform: skew(10deg);
+    transform: skew(10deg);
+  }
+  49.95% {
+    -webkit-transform: skew(-6deg);
+    transform: skew(-6deg);
+  }
+  66.6% {
+    -webkit-transform: skew(4deg);
+    transform: skew(4deg);
+  }
+  83.25% {
+    -webkit-transform: skew(-2deg);
+    transform: skew(-2deg);
+  }
+  100% {
+    -webkit-transform: skew(0);
+    transform: skew(0);
+  }
+}
+.contact {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 3px #9400d3;
+}
+.contact:hover, .contact:focus, .contact:active {
+  -webkit-animation-name: contact;
+  animation-name: contact;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
