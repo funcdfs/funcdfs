@@ -6,6 +6,11 @@
 </br>
 
 <span class="contact">
+<style type="text/css">
+p {
+  color: #26b72b;
+}
+</style>
 <a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/wx.jpg" title="CIKI1F"> &nbsp Wechat &nbsp  </a>
 </span>
 
