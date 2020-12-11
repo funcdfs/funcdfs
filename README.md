@@ -32,7 +32,7 @@
 </span>
 
 <span class="contact">
-<a href="https://feng-w.cn" title="feng-w.cn"> &nbspblog&nbsp</a>
+<a href="https://konng.now.sh/" title="https://konng.now.sh/"> &nbspblog&nbsp</a>
 </span>
 
 ---
