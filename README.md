@@ -1,4 +1,29 @@
-## Contact
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+
+### 🌴 Hello World! 
+
+🌈 Hi, I'm [konng](https://konng.now.sh), a student.
+
+💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
+
+![](https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002)
+
+
+<!--
+
+[![stat](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/fengwei2002)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002i&layout=compact)](https://github.com/fengwei2002)
+
+<details>
+<summary>CLICK ME</summary>
+
+![ip test](https://ip.ntrqq.net/images/yosuga.png?wd=JTIw&r=f7eppzl6j6)
+</details>
+
+-->
+
+### Contact
 
 <span class="contact">
 <a href="https://konng.now.sh/" title="https://konng.now.sh/"> &nbspblog&nbsp</a>
@@ -31,7 +56,5 @@
 <span class="contact">
 <a href="http://codeforces.com/profile/KONNG#" title="KONNG">&nbspcodeforce&nbsp</a>
 </span>
-
----
 
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
