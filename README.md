@@ -1,8 +1,9 @@
-
-
-<img src="https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2020-12-21-10-11-38.jpg" alt="KONNG" style="width:40%;height:20%;">
-
 ## Contact
+
+<span class="contact">
+<a href="https://konng.now.sh/" title="https://konng.now.sh/"> &nbspblog&nbsp</a>
+</span>
+
 <span class="contact">
 <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/4200E2F1041F9865A7376B934D76600D.jpg" title="CIKI1F">&nbspwechat&nbsp</a>
 </span>
@@ -20,10 +21,6 @@
 </span>
 
 <span class="contact">
-<a href="https://github.com/fengwei2002" title="fengwei2002">&nbspgithub&nbsp</a>
-</span>
-
-<span class="contact">
 <a href="https://leetcode-cn.com/u/fengwei2002/" title="fengwei2002">&nbspleetcode.cn&nbsp</a>
 </span>
 
@@ -33,10 +30,6 @@
 
 <span class="contact">
 <a href="http://codeforces.com/profile/KONNG#" title="KONNG">&nbspcodeforce&nbsp</a>
-</span>
-
-<span class="contact">
-<a href="https://konng.now.sh/" title="https://konng.now.sh/"> &nbspblog&nbsp</a>
 </span>
 
 ---
