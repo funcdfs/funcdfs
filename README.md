@@ -1,4 +1,6 @@
->![KONNG](https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2020-12-21-10-02-49.jpg)
+
+
+<img src="https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2020-12-21-10-11-38.jpg" alt="KONNG" style="width:40%;height:20%;">
 
 ## Contact
 <span class="contact">
