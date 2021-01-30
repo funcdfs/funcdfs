@@ -44,6 +44,6 @@
 
 </br>
 
-<img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
+<img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
 
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
