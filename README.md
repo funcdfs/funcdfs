@@ -1,4 +1,6 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&&theme=highcontrast&bg_color=30,e96443,904e95"&hide=["contribs"]&&hide_title=true' /> 
+<img align='right' 
+src='https://github-readme-stats.vercel.app/api?
+username=fengwei2002&show_icons=true&count_private=true&hide_title=true'&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95" />
 
 ### 🌴 Hello Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 
