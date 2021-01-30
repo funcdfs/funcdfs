@@ -1,6 +1,6 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&&theme=highcontrast&bg_color=30,e96443,904e95"&hide=["contribs"]&&hide_title=true' /> 
 
-### 🌴 Hello World! 
+### 🌴 Hello Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 
 🌈 Hi, I'm [konng](https://konng.now.sh), a student.
 
