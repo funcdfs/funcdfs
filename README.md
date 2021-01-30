@@ -1,10 +1,13 @@
-<img align='right' src="https://metrics.lecoq.io/fengwei2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.animated=true" />
+<img align='right' src="https://metrics.lecoq.io/fengwei2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&languages.skipped=fengwei2002.github.io%2C&stars.limit=3&config.timezone=Asia%2FShanghai&config.animated=true" />
+
 
 <!-- 传统：https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95 -->
 
 #### 🌈 Hi, I'm [konng](https://konng.now.sh), a student.
 
 #### 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
+
+![Metrics](https://metrics.lecoq.io/fengwei2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.animated=true)
 
 ### 🌴Contact
 
