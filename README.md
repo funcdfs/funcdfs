@@ -14,11 +14,9 @@
 - <a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/QQ.jpg" title="2480417969/2928256681">qq</a>
 - <a href="https://leetcode-cn.com/u/fengwei2002/" title="fengwei2002">leetcode.cn</a>
 
-***
+> - <img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
 
-- <img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact)
 
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
