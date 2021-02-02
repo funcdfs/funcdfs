@@ -18,7 +18,7 @@
 
 - <img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
 
-![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
 
  <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
