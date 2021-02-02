@@ -1,18 +1,16 @@
 <img align='right' src="https://metrics.lecoq.io/fengwei2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&isocalendar=1&activity.limit=4&activity.days=25&activity.filter=all&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.animated=true"/>
 
-<!-- 传统： -->
-
 #### 🌈 Hi, I'm [konng](https://konng.now.sh), a student.
 
 #### 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
 
 ### 🌴Contact
 
-- [blog](https://konng.now.sh/)
-- <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/4200E2F1041F9865A7376B934D76600D.jpg" title="CIKI1F">wechat</a>
-- <a href="https://www.zhihu.com/people/kwmwmwnw" title="kycu">zhihu</a>
-- <a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/QQ.jpg" title="2480417969/2928256681">qq</a>
-- <a href="https://leetcode-cn.com/u/fengwei2002/" title="fengwei2002">leetcode.cn</a>
+- [Blog](https://konng.now.sh/)
+- <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/WeChatORCode.jpg" title="CIKI1F">WeChat</a>
+- <a href="https://www.zhihu.com/people/kwmwmwnw" title="kycu">zhiHu</a>
+- <a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/QQ.jpg" title="2480417969/2928256681">QQ</a>
+- <a href="https://leetcode-cn.com/u/fengwei2002/" title="fengwei2002">Leetcode.cn</a>
 <HR align=center width=300 color=#987cb9SIZE=1>
 
 > <img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
