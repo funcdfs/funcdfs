@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    # ⏰ WakaTime plugin
-      # Display your wakatime metrics
+      # ⏰ WakaTime plugin
       - name: ⏰ WakaTime plugin
         uses: lowlighter/metrics@master
         with:

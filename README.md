@@ -1,4 +1,5 @@
-<img align='right' src="https://metrics.lecoq.io/fengwei2002?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&isocalendar=1&activity.limit=4&activity.days=25&activity.filter=all&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.animated=true"/>
+<img align='right' src=""/>
+<img align='right' src=""/>
 
 #### 🌈 Hi, I'm [konng](https://konng.now.sh), a student.
 
