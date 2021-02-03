@@ -1,18 +1,11 @@
-<img align='right' src=""/>
-<img align='right' src=""/>
+<img align='right' alt="wakatime" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/11e312c4a2fdc04710ac787e56837a4d967e6647/metrics.plugin.wakatime.svg"/>
 
-#### 🌈 Hi, I'm [konng](https://konng.now.sh), a student.
+<img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/11e312c4a2fdc04710ac787e56837a4d967e6647/metrics.plugin.isocalendar.svg">
 
-#### 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
 
-### 🌴Contact
+#### 🌴 Hi, I'm [konng](https://konng.now.sh), a student.
 
-- [Blog](https://konng.now.sh/)
-- <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/WeChatORCode.jpg" title="CIKI1F">WeChat</a>
-- <a href="https://www.zhihu.com/people/kwmwmwnw" title="kycu">zhiHu</a>
-- <a href="https://raw.githubusercontent.com/fengwei2002/Pictures_01/master/QQ.jpg" title="2480417969/2928256681">QQ</a>
-- <a href="https://leetcode-cn.com/u/fengwei2002/" title="fengwei2002">Leetcode.cn</a>
-<HR align=center width=300 color=#987cb9SIZE=1>
+#### 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues) or <a href="https://raw.githubusercontent.com/fengwei2002/fengwei2002/main/WeChatORCode.jpg" title="CIKI1F">wechat</a> .
 
 > <img src='https://visitor-badge.laobi.icu/badge?page_id=fengwei2002.fengwei2002' />
 
