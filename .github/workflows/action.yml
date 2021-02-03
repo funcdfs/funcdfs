@@ -68,7 +68,6 @@ jobs:
           plugin_wakatime_sections: time, editors, os,languages-graphs
           plugin_wakatime_token: e7f549a2-7433-4fee-8ff2-641a6fb61ca9 # ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: no            # ⚠️ Using mocked data because I don't really use WakaTime
-          plugins_err      # 🌟 Recently starred repositories
 
       # Display latest starred repositories
       - name: 🌟 Stars plugin
