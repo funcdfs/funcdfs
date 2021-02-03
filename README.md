@@ -1,6 +1,8 @@
-<img align='right' alt="wakatime" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/11e312c4a2fdc04710ac787e56837a4d967e6647/metrics.plugin.wakatime.svg"/>
+<img align='right' alt="wakatime" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/calendar.svg/">
 
-<img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/11e312c4a2fdc04710ac787e56837a4d967e6647/metrics.plugin.isocalendar.svg">
+<img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/activity.svg">
+
+<img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/habits.svg">
 
 
 #### 🌴 Hi, I'm [konng](https://konng.now.sh), a student.
