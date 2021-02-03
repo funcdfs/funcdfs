@@ -9,21 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-   # ======================================================================================
-      # 💡 Coding habits
-
-      # Display coding habits and recent activity (setup timezone for accurate metrics)
-      - name: 💡 Habits plugin
-        uses: lowlighter/metrics@master
-        with:
-          filename: habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          config_timezone: Asia/Shanghai
     # ======================================================================================
       # 📰 Recent activity
 
@@ -36,7 +21,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 7
+          plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, star
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
