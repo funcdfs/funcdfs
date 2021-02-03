@@ -1,4 +1,4 @@
-<img align='right' alt="wakatime" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/calendar.svg/">
+<img align='right' alt="wakatime" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/calendar.svg">
 
 <img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/activity.svg">
 
