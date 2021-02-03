@@ -1,4 +1,4 @@
-name: Metrics
+name: action
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
