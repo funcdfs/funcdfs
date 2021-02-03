@@ -9,6 +9,52 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+   # ======================================================================================
+      # 💡 Coding habits
+
+      # Display coding habits and recent activity (setup timezone for accurate metrics)
+      - name: 💡 Habits plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_timezone: Asia/Shanghai
+
+      # Display coding habits and recent activity, only facts section (setup timezone for accurate metrics)
+      - name: 💡 Habits plugin (facts)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_timezone: Asia/Shanghai
+
+      # Display coding habits and recent activity, only charts section (setup timezone for accurate metrics)
+      - name: 💡 Habits plugin (charts)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_timezone: Asia/Shanghai
+
+      # ======================================================================================
 
       # ⏰ WakaTime plugin
       - name: ⏰ WakaTime plugin
@@ -18,10 +64,42 @@ jobs:
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_limit: 5             # Show 4 entries per graph
+          plugin_wakatime_sections: time, editors, os,languages-graphs
           plugin_wakatime_token: e7f549a2-7433-4fee-8ff2-641a6fb61ca9 # ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: no            # ⚠️ Using mocked data because I don't really use WakaTime
+          plugins_err      # 🌟 Recently starred repositories
+
+      # Display latest starred repositories
+      - name: 🌟 Stars plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+    # ======================================================================================
+      # 📰 Recent activity
+
+      # Display recent activity
+      - name: 📰 Activity plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, star
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_padding: 7%, 20%
+
+      # ======================================================================================
 
       # Display isometric calendar (180 days)
       - name: 📅 Isocalendar plugin
