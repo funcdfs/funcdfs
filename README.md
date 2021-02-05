@@ -2,7 +2,8 @@
 <img align='right' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
 <!-- <img align='right' alt="isocalendar" src="https://raw.githubusercontent.com/fengwei2002/fengwei2002/0927f5dd9f67e19effd9d81ed08d961a881d828f/habits.svg"> -->
-## 🌴 12:00 am —— 11:00 pm
+##### 🌴 11:00 AM —— 10:00 PM
+##### 🌴 WechatORCode:
 
 ![WechatORCode](https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/img/2021-02-03-17-50-48.jpg)
 
