@@ -16,7 +16,6 @@ Personal website: [konng.now.sh](https:konng.now.sh)
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
-  <br/>
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
   <img alt="Java" src="https://img.shields.io/badge/Java-a8925e?style=flat-square&logo=Java">
