@@ -7,6 +7,7 @@ Personal website: [konng.now.sh](https:konng.now.sh)
 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
 
 <p align="center">
+  </br>
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
   <br/>
