@@ -17,13 +17,12 @@
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
+  <br />  
   <br />
-  <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="45" height="45" algin="right"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" algin="right"/> 
   <img style="float="left";" src="https://raw.githubusercontent.com/fengwei2002/Pictures_02/master/QQ%E5%9B%BE%E7%89%8720210207131459.gif" width="155" height="110" algin="right"/>
-  <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="45" height="45" algin="right"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" algin="right"/> 
 </p>
-
-<hr>
 
 ![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact)
