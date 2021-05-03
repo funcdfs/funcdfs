@@ -1,8 +1,8 @@
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
-🎧 11:00 AM-11:00 PM  
-🔗 Personal website: [konng.now.sh↗](https:konng.now.sh)  
+🎧 11:00 AM-12:00 PM  
+🔗 Personal website: [https://konng.vercel.app↗](https:konng.vercel.app)  
 💬 Ask me about anything [here↗](https://github.com/fengwei2002/fengwei2002/issues).
 
 <p align="center">
