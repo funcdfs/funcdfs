@@ -8,7 +8,7 @@
 <p align="center">
   <br />   
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-7FD5EA?style=flat-square&logo=Go">
+  <img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
   <br />
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
