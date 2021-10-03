@@ -23,6 +23,6 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact" height="215" algin="right"/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengwei2002&hide=html&layout=compact)
 
  <!--! ![github stats](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true) -->
