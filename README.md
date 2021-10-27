@@ -6,7 +6,7 @@
 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
 
 <p align="center">
-  <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="200" algin="right"/>
+  <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="150" algin="right"/>
   <br />   
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
