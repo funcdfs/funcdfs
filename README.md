@@ -2,8 +2,9 @@
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
 😜 11:00 AM - 07:00 PM   
-🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)  
-💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).
+🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)   
+💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).   
+✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
 
 <p align="center">
   <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="160" algin="right"/>
@@ -21,7 +22,11 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <br />
+  &nbsp;
   <br />
+  &nbsp;
+    <br />
+  &nbsp;
 </p>
 
 
