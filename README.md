@@ -26,6 +26,13 @@
 <br />
 
 <!--START_SECTION:waka-->
+```text
+Markdown   31 hrs 52 mins  █████████████░░░░░░░░░░░░   51.44 % 
+Go         24 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   39.32 % 
+C++        2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Python     2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Kotlin     20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
 <!--END_SECTION:waka-->
 
 <!--! ![](https://github-readme-stats.vercel.app/api?username=fengwei2002&show_icons=true&count_private=true&hide_title=true%27&hide=contribs&include_all_commits=true&theme=highcontrast&bg_color=30,e96443,904e95) -->
