@@ -1,7 +1,7 @@
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
-😜 11:00 AM - 07:00 PM   
+🍭 11:00 AM - 07:00 PM   
 🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)   
 💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).   
 ✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
@@ -31,6 +31,11 @@
   &nbsp;
 </p>
 
+<p>
+  &nbsp;
+    <br />
+  &nbsp;
+</p>
 
 <!--START_SECTION:waka-->
 ```text
