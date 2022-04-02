@@ -22,8 +22,8 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <br />
-    <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_87ce97deb2-pixel-bunny.gif" height="65" algin="left"/>
-    <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="135" algin="right"/>
+      <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="135" algin="left"/>
+    <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_87ce97deb2-pixel-bunny.gif" height="65" algin="right"/>
 </p>
 
 
