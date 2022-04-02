@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://cdn.acwing.com/media/article/image/2022/04/02/101476_87ce97deb2-pixel-bunny.gif" height="60" algin="left"/>
-    <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="160" algin="right"/>
+    <img src="https://cdn.acwing.com/media/article/image/2021/07/10/101476_6d5ef4a7e1-20210526135242-2021-05-26.png" height="140" algin="right"/>
 
   <br />   
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
