@@ -32,9 +32,6 @@
 </p>
 
 <p>
-  &nbsp;
-    <br />
-  &nbsp;
 </p>
 
 <!--START_SECTION:waka-->
