@@ -18,7 +18,7 @@
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
     <p align="center">
     <img src="https://camo.githubusercontent.com/8b4dcdddfcead4e264977e9961ee5fb15fae6a0dcd12ee7a2017e8044603635b/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032322f30342f30322f3130313437365f383763653937646562322d706978656c2d62756e6e792e676966" height="65" algin="center"/>
-    <img src="https://stats.justsong.cn/api/leetcode?username=konng0120&cn=true" height = "170" algin="right"/>
+<a href="https://leetcode-cn.com/u/konng0120/"><img src="https://stats.justsong.cn/api/leetcode?username=konng0120&cn=true" height = "170" algin="right"/> </a>
     </p>
 </p>
 
