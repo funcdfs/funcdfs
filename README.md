@@ -1,13 +1,8 @@
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
 
-🍭 11:00 AM - 07:00 PM   
-🔗 Personal website: [https://wikif.vercel.app](https://wikif.vercel.app)   
-💬 Ask me about anything [here](https://github.com/fengwei2002/fengwei2002/issues).   
 ✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2d80fac3685c02c9446db59dbbcb883fa95bd227fb4633e7859ce7d50dd768b7/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032322f30342f30322f3130313437365f336464333431316362322d67617469746f2d646f726d69722e676966" height="65" algin="center">
-</p>
+
 <p align="center">
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/java-F7F7F7?style=flat-square&logo=java&logoColor=brown">
@@ -21,21 +16,22 @@
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <br />
-      <img src="https://camo.githubusercontent.com/0b2222a81e35f2709d83655882232402b4dd13c913c73027fc9497188a6310cc/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032312f30372f31302f3130313437365f366435656634613765312d32303231303532363133353234322d323032312d30352d32362e706e67" height="135" algin="left"/>
-    <img src="https://camo.githubusercontent.com/8b4dcdddfcead4e264977e9961ee5fb15fae6a0dcd12ee7a2017e8044603635b/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032322f30342f30322f3130313437365f383763653937646562322d706978656c2d62756e6e792e676966" height="65" algin="right"/>
+    <p align="center">
+    <img src="https://camo.githubusercontent.com/8b4dcdddfcead4e264977e9961ee5fb15fae6a0dcd12ee7a2017e8044603635b/68747470733a2f2f63646e2e616377696e672e636f6d2f6d656469612f61727469636c652f696d6167652f323032322f30342f30322f3130313437365f383763653937646562322d706978656c2d62756e6e792e676966" height="65" algin="center"/>
+    <img src="https://stats.justsong.cn/api/leetcode?username=konng0120&cn=true" height = "170" algin="right"/>
+    </p>
 </p>
 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2022 - 03 April, 2022
+Week: 26 March, 2022 - 01 April, 2022
 
-C++         51 hrs 25 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟩⬜⬜⬜⬜   80.70 % 
-Go          8 hrs           🟪🟪🟪🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.56 % 
-Markdown    3 hrs 57 mins   🟪🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.22 % 
-JSON        9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.25 % 
-Batchfile   9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.24 % 
+C++         46 hrs 21 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜   75.51 % 
+Go          8 hrs           🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.04 % 
+Markdown    6 hrs 41 mins   🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.90 % 
+JSON        9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.26 % 
+Batchfile   9 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
