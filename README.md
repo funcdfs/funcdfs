@@ -25,11 +25,7 @@
 </div> 
 <br />
 <br /> 
-<br />
 
-<div>
-<hr /> 
-</div>
 
 <!--START_SECTION:waka-->
 ```text
