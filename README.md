@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2022 - 27 August, 2022
+Week: 22 August, 2022 - 28 August, 2022
 
 C++          43 hrs 52 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟨⬜⬜⬜⬜   81.83 % 
 Markdown     4 hrs 55 mins   🟪🟪🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.17 % 
