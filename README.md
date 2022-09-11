@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2022 - 09 September, 2022
+Week: 04 September, 2022 - 10 September, 2022
 
 C++        33 hrs 23 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟧   98.65 % 
 Bash       10 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.51 % 
