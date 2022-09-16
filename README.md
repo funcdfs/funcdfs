@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2022 - 14 September, 2022
+Week: 09 September, 2022 - 15 September, 2022
 
 C++              64 hrs 19 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟨   97.53 % 
 GitIgnore file   51 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.31 % 
