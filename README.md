@@ -5,9 +5,9 @@
 ✨ A comfortable dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng)
 
 <p align="center">
-  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-a788b5?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="rust" src="https://img.shields.io/badge/rust-ED6600?style=flat-square&logo=rust&logoColor=white">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-FCEAE5?style=flat-square&logo=Go">
+  <img alt="Go" src="https://img.shields.io/badge/Go-a788b5?style=flat-square&logo=Go">
   <br />
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
