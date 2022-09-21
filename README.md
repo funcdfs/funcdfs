@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2022 - 19 September, 2022
+Week: 14 September, 2022 - 20 September, 2022
 
 C++      55 hrs 9 mins   🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜   76.03 % 
 Rust     7 hrs 41 mins   🟪🟪🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.59 % 
