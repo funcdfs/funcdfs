@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2022 - 09 October, 2022
+Week: 04 October, 2022 - 10 October, 2022
 
 C++    32 hrs 53 mins  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟩⬜⬜⬜⬜   80.76 % 
 Go     7 hrs 45 mins   🟪🟪🟪🟪🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.06 % 
