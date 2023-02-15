@@ -11,8 +11,10 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: fengwei2002/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ⬜🟩🟩🟨🟨🟧🟥🟪
+          BLOCKS: ->
+          SHOW_MASKED_TIME: true
+          TIME_RANGE: all_time
