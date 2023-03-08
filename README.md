@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2020 - To: 06 March 2023
+From: 01 May 2020 - To: 07 March 2023
 
-Total Time: 4,328 hrs 12 mins
+Total Time: 4,328 hrs 45 mins
 
-Go                         2,004 hrs 1 min >>>>>>>>>>>>-------------   46.30 %
+Go                         2,004 hrs 34 mins>>>>>>>>>>>>-------------   46.31 %
 C++                        1,586 hrs 1 min >>>>>>>>>----------------   36.64 %
 JavaScript                 159 hrs 18 mins >------------------------   03.68 %
 Markdown                   89 hrs 58 mins  >------------------------   02.08 %
