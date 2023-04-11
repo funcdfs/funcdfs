@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2020 - To: 09 April 2023
+From: 01 May 2020 - To: 10 April 2023
 
 Total Time: 4,387 hrs 45 mins
 
