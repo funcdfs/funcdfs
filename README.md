@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2020 - To: 03 May 2023
+From: 01 May 2020 - To: 04 May 2023
 
 Total Time: 4,417 hrs 30 mins
 
@@ -38,7 +38,6 @@ Stylus                     65 hrs 53 mins  -------------------------   01.49 %
 Java                       42 hrs 27 mins  -------------------------   00.96 %
 CSS                        26 hrs 55 mins  -------------------------   00.61 %
 Kotlin                     25 hrs 16 mins  -------------------------   00.57 %
-Other                      18 hrs 47 mins  -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
