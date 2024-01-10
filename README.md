@@ -1,7 +1,7 @@
 <div>
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
 
-✨ Dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng) 🟪 [==> KCE](https://kce.vercel.app/)
+✨ Dark theme for vscode [KONNG](https://marketplace.visualstudio.com/items?itemName=OvO.konng) 
 
 <p align="center">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
