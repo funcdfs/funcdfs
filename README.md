@@ -5,13 +5,10 @@
 
 <p align="center">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-ED6600?style=flat-square&logo=rust&logoColor=white">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-a788b5?style=flat-square&logo=Go">
-  <br />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
-  <br />
   <img alt="vue" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="React" src="https://img.shields.io/badge/React-3572a5?style=flat-square&logo=React&logoColor=9cf">
 <!--     <p align="center">
