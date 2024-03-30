@@ -41,7 +41,9 @@ Kotlin                     25 hrs 16 mins  -------------------------   00.57 %
 <p align="center">
     <a href="mailto:funcdfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/funcdfs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://t.me/funcdfs" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
+  <a href="https://t.me/neverdo" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
+<a href="https://www.zhihu.com/people/kwmwmwnw" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?&style=flat-square&logo=Zhihu&logoColor=white" alt="Zhihu"></a>
+
 </p>
 
 </div> 
