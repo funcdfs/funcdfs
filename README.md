@@ -21,12 +21,10 @@ Kotlin                     25 hrs 16 mins  -------------------------   00.57 %
 
 <div>
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=4999&pause=1000&color=9400D3&background=BCFFFE00&center=true&vCenter=true&random=false&width=215&lines=function+dfs" height="64" algin="center"/>
-    </p>
 
-  
 <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=4999&pause=1000&color=9400D3&background=BCFFFE00&center=true&vCenter=true&random=false&width=215&lines=func[tion]+dfs" height="64" algin="center"/>
+      </br>
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-142857?style=flat-square&logo=Go">
