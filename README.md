@@ -34,15 +34,11 @@ Other                      26 hrs 44 mins  -------------------------   00.58 %
   <img alt="vue" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <img alt="React" src="https://img.shields.io/badge/React-3572a5?style=flat-square&logo=React&logoColor=9cf">
   </br>
+    <a href="mailto:funcdfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.zhihu.com/people/kwmwmwnw" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?&style=flat-square&logo=Zhihu&logoColor=white" alt="Zhihu"></a>
+  
 </p>
 
-✨ Contact:
-
-<p align="center">
-    <a href="mailto:funcdfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/funcdfs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://t.me/neverdo" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
-<a href="https://www.zhihu.com/people/kwmwmwnw" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?&style=flat-square&logo=Zhihu&logoColor=white" alt="Zhihu"></a>
 
 </p>
 
