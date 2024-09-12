@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2020 - To: 10 September 2024
+From: 01 May 2020 - To: 11 September 2024
 
-Total Time: 4,666 hrs 8 mins
+Total Time: 4,671 hrs 2 mins
 
-Go                         2,024 hrs 30 mins>>>>>>>>>>>--------------   43.39 %
-C++                        1,876 hrs 49 mins>>>>>>>>>>---------------   40.22 %
+Go                         2,029 hrs 10 mins>>>>>>>>>>>--------------   43.44 %
+C++                        1,876 hrs 51 mins>>>>>>>>>>---------------   40.18 %
 JavaScript                 160 hrs 31 mins >------------------------   03.44 %
 Markdown                   90 hrs 57 mins  -------------------------   01.95 %
 Python                     74 hrs 21 mins  -------------------------   01.59 %
