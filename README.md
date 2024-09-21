@@ -35,9 +35,12 @@
 
 <p align="center">
 
-- `homepage   := "funcdfs"` 「[ -> funcdfs.vercel.app  ](https://funcdfs.vercel.app)」
-- `leetcode   := "funcdfs"` 「[ -> scratch a creative itch ](https://leetcode.cn/u/funcdfs/)」
-- `codeforces := "funcdfs"` 「[ -> such simple times  ](https://codeforces.com/profile/funcdfs) 」
+- `homepage   := "funcdfs"`
+    - 「[ -> funcdfs.vercel.app  ](https://funcdfs.vercel.app)」
+- `leetcode   := "funcdfs"`
+    - 「[ -> scratch a creative itch ](https://leetcode.cn/u/funcdfs/)」
+- `codeforces := "funcdfs"`
+    - 「[ -> such simple times  ](https://codeforces.com/profile/funcdfs) 」
 - ` 🐾 ToDo ...`
 </p>
 
