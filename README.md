@@ -17,7 +17,8 @@
   </br>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-6142b6?style=flat-square&logo=obsidian&logoColor=white">
   <img alt="Warp" src="https://img.shields.io/badge/Warp-202020?style=flat-square&logo=warp&logoColor=white">
-
+  </br>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
 
