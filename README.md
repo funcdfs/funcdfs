@@ -1,23 +1,4 @@
-<!--START_SECTION:waka-->
 
-```txt
-From: 01 May 2020 - To: 20 September 2024
-
-Total Time: 4,688 hrs 53 mins
-
-Go                         2,040 hrs 51 mins>>>>>>>>>>>--------------   43.53 %
-C++                        1,878 hrs 53 mins>>>>>>>>>>---------------   40.07 %
-JavaScript                 160 hrs 31 mins >------------------------   03.42 %
-Markdown                   90 hrs 57 mins  -------------------------   01.94 %
-Python                     74 hrs 21 mins  -------------------------   01.59 %
-HTML                       66 hrs 48 mins  -------------------------   01.42 %
-Stylus                     65 hrs 53 mins  -------------------------   01.41 %
-Java                       42 hrs 27 mins  -------------------------   00.91 %
-Other                      27 hrs 32 mins  -------------------------   00.59 %
-Rust                       27 hrs 10 mins  -------------------------   00.58 %
-```
-
-<!--END_SECTION:waka-->
 
 <div>
 <img align='left' src="https://github.com/fengwei2002/fengwei2002/blob/main/calendar.svg">
@@ -47,6 +28,33 @@ Rust                       27 hrs 10 mins  -------------------------   00.58 %
 <!--! 
 
 <img align='left' alt="isocalendar" src="https://github.com/fengwei2002/fengwei2002/blob/main/activity.svg">
+
+
+
+
+
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 01 May 2020 - To: 20 September 2024
+
+Total Time: 4,688 hrs 53 mins
+
+Go                         2,040 hrs 51 mins>>>>>>>>>>>--------------   43.53 %
+C++                        1,878 hrs 53 mins>>>>>>>>>>---------------   40.07 %
+JavaScript                 160 hrs 31 mins >------------------------   03.42 %
+Markdown                   90 hrs 57 mins  -------------------------   01.94 %
+Python                     74 hrs 21 mins  -------------------------   01.59 %
+HTML                       66 hrs 48 mins  -------------------------   01.42 %
+Stylus                     65 hrs 53 mins  -------------------------   01.41 %
+Java                       42 hrs 27 mins  -------------------------   00.91 %
+Other                      27 hrs 32 mins  -------------------------   00.59 %
+Rust                       27 hrs 10 mins  -------------------------   00.58 %
+```
+
+<!--END_SECTION:waka-->
+
 
 
 
