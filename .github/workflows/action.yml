@@ -9,26 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    # ======================================================================================
-      # 📰 Recent activity
-
-      # Display recent activity
-      - name: 📰 Activity plugin
-        uses: lowlighter/metrics@master
-        with:
-          filename: activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: pr, release, fork, star
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          config_padding: 7%, 20%
-
-      # ======================================================================================
-
       # Display isometric calendar (180 days)
       - name: 📅 Isocalendar plugin
         uses: lowlighter/metrics@master
